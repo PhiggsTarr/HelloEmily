@@ -40,7 +40,7 @@ class ViewController: UIViewController {
     }
     
     func playSound() {
-        guard let url = Bundle.main.url(forResource: "17 Die For You", withExtension: "mp3") else { return }
+        guard let url = Bundle.main.url(forResource: "01 Kill Jay Z", withExtension: "mp3") else { return }
         
         do {
             try AVAudioSession.sharedInstance().setCategory(AVAudioSessionCategoryPlayback)

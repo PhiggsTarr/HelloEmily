@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		B5DB8A9D21573821003DD8A0 /* 01 Kill Jay Z.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = B5DB8A9C21573821003DD8A0 /* 01 Kill Jay Z.mp3 */; };
 		B5F1CB6B2082DD4100EB7CFA /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5F1CB6A2082DD4100EB7CFA /* AppDelegate.swift */; };
 		B5F1CB6D2082DD4100EB7CFA /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5F1CB6C2082DD4100EB7CFA /* ViewController.swift */; };
 		B5F1CB702082DD4100EB7CFA /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B5F1CB6E2082DD4100EB7CFA /* Main.storyboard */; };
@@ -35,6 +36,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		B5DB8A9C21573821003DD8A0 /* 01 Kill Jay Z.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "01 Kill Jay Z.mp3"; sourceTree = "<group>"; };
 		B5F1CB672082DD4100EB7CFA /* HelloEmily.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HelloEmily.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B5F1CB6A2082DD4100EB7CFA /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		B5F1CB6C2082DD4100EB7CFA /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -106,6 +108,7 @@
 				B5F1CB712082DD4500EB7CFA /* Assets.xcassets */,
 				B5F1CB732082DD4500EB7CFA /* LaunchScreen.storyboard */,
 				B5F1CB762082DD4500EB7CFA /* Info.plist */,
+				B5DB8A9C21573821003DD8A0 /* 01 Kill Jay Z.mp3 */,
 			);
 			path = HelloEmily;
 			sourceTree = "<group>";
@@ -232,6 +235,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B5DB8A9D21573821003DD8A0 /* 01 Kill Jay Z.mp3 in Resources */,
 				B5F1CB752082DD4500EB7CFA /* LaunchScreen.storyboard in Resources */,
 				B5F1CB722082DD4500EB7CFA /* Assets.xcassets in Resources */,
 				B5F1CB992082E53F00EB7CFA /* 17 Die For You.mp3 in Resources */,
